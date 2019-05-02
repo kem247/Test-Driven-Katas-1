@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/misskiss/Test-Driven-Katas/issues"
   },
-  "homepage": "https://github.com/misskiss/Test-Driven-Katas#readme"
+  "homepage": "https://github.com/misskiss/Test-Driven-Katas#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
